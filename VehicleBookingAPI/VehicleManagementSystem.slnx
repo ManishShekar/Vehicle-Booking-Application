@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Library/">
+    <Project Path="VehicleManagementSystem.core/VehicleManagementSystem.Core.csproj" />
+    <Project Path="VehicleManagementSystem.Data/VehicleManagementSystem.Data.csproj" />
+    <Project Path="VehicleManagementSystem.Utilities/VehicleManagementSystem.Utilities.csproj" />
+  </Folder>
+  <Folder Name="/Presentation/">
+    <Project Path="VehicleManagementSystem/VehicleManagementSystem.csproj" />
+  </Folder>
+</Solution>
